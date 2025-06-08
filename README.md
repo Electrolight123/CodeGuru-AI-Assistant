@@ -79,6 +79,7 @@ python app.py
 ## 🤔 Why Use CodeGuru?
 
 >No API keys. No latency. No internet dependency.
+
 >Just fast, local, and contextual coding help whenever you need it.
 
 ---
