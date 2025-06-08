@@ -39,7 +39,7 @@
 ### 2️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/CodeGuru-AI-Assistant.git
+git clone https://github.com/Electrolight123/CodeGuru-AI-Assistant.git
 cd CodeGuru-AI-Assistant
 ```
 
