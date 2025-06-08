@@ -86,7 +86,9 @@ Just fast, local, and contextual coding help whenever you need it.
 ## 🧑‍💻 Author
 
 **Abhishek Bala**
+
 🎓 B.Tech & M.tech @ NIT Rourkela
+
 🔗 [LinkedIn](https://www.linkedin.com/in/abhishek-bala-ba1ab224b/) | 🐙 [GitHub](https://github.com/Electrolight123)
 
 ---
